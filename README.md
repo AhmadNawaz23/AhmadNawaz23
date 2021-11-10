@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AhmadNawaz
+- 🌱 I’m currently learning Python for Data Science and Machine Learning Bootcamp
